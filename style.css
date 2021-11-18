@@ -1,0 +1,13 @@
+h1 {
+  font-family: cursive;
+  border-color: grey;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+button {
+  margin-left: 1%;
+  margin-top: 20px;
+}
+* {
+  background-color: ("aqua");
+}
